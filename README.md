@@ -10,7 +10,7 @@ Landing page desenvolvida com foco em adoção de pets, com layout moderno e res
 
 ## 🖥️ Projeto Online
 
-Acesse o site: [meuCaramelo - Vercel]([https://SEULINK.vercel.app](https://meu-caramelo-dmdk.vercel.app/))
+Acesse o site:[(https://meu-caramelo-dmdk.vercel.app/)]
 
 ## 💻 Como rodar localmente
 
